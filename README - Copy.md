@@ -12,3 +12,13 @@ A sample Repo
      sum += x
      return sum
  ```
+ * List the items
+    * vs code
+    * commit
+    * push
+    * pull
+1. Git
+    1. Terminal
+    2. Git Desktop
+    3. Remote git
+2. Visual studio code 
